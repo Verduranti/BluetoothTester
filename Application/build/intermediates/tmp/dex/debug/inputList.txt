@@ -1,0 +1,6 @@
+/Users/verduranti/git/BluetoothBlast/Application/build/intermediates/classes/debug
+/Users/verduranti/git/BluetoothBlast/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-a0c39e6a3da68ed3dc3f428d80866d5a2df9e97c.jar
+/Users/verduranti/git/BluetoothBlast/Application/build/intermediates/pre-dexed/debug/classes-f2084549fa571c9f89f0ac864002a23d7023d14e.jar
+/Users/verduranti/git/BluetoothBlast/Application/build/intermediates/pre-dexed/debug/classes-4c148d9ce81a22692deef4c052da51c1c1a32472.jar
+/Users/verduranti/git/BluetoothBlast/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-5897d5863d59df536ebfe78921d86650826dc798.jar
+/Users/verduranti/git/BluetoothBlast/Application/build/intermediates/pre-dexed/debug/classes-f3c3541d5ac0d4193ff1c777b97b8e44428e1ad0.jar
